@@ -2,6 +2,8 @@
 
 ## Deployed in the browser using TensorFlow.JS
 
+The Model uses a simple Convolutional Neural Network written in TensorFlow.js trained on the local machine and then deployed in JSON format for inference.
+
 The server is built in Node.js using Express running in a docker container.
 
 The dependencies can be installed using <br>
