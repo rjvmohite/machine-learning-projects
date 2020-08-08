@@ -5,4 +5,4 @@ These projects include assignments for various courses that I have undertaken as
 
 ## 1. Handwritten Digit Recognizer
 
-Try out my deployed model in the browser [here](http://139.59.91.119:8888/)
+Try out my deployed model in the browser [here](http://139.59.91.119:5555/)
