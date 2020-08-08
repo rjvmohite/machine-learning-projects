@@ -5,10 +5,6 @@ const app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-// app.post('/savemodel', function (request, response) {
-//     console.log("Recieved Model");
-// });
-
 app.get('/model/model.json', function (request, response) {
     response.sendFile(path.join(__dirname, 'model', 'my-model.json'));
 });
