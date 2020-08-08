@@ -14,6 +14,6 @@ Then run the script using <br>
 
 ## To use it online head over to here.
 
-# References
+## References
 
 TensorFlow: Data and Deployment Specialization offered by Coursera in colaboration with deeplearning.ai, instructed by Laurence Moroney.
