@@ -11,3 +11,7 @@ Then run the script using <br>
 ```npm start```  command <br> to make the server listen to any port of your liking (default 8888).
 
 ## To use it online head over to here.
+
+# References
+
+TensorFlow: Data and Deployment Specialization offered by Coursera in colaboration with deeplearning.ai, instructed by Laurence Moroney.
